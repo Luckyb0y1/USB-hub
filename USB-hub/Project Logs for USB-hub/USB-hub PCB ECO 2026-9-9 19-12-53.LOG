@@ -1,0 +1,267 @@
+Added Component: Designator=C1(C 0603_L)
+Added Component: Designator=C2(C 0603_L)
+Added Component: Designator=C3(C 0603_L)
+Added Component: Designator=C4(C 0603_L)
+Added Component: Designator=C5(C 0603_L)
+Added Component: Designator=C6(C 0603_L)
+Added Component: Designator=C7(C 0603_L)
+Added Component: Designator=C8(C 0603_L)
+Added Component: Designator=C9(C 0603_L)
+Added Component: Designator=C10(C 0603_L)
+Added Component: Designator=C11(C 0603_L)
+Added Component: Designator=C12(C 0603_L)
+Added Component: Designator=C13(C 0603_L)
+Added Component: Designator=C14(C 0603_L)
+Added Component: Designator=C15(C 0603_L)
+Added Component: Designator=C16(C 0603_L)
+Added Component: Designator=C17(C 0603_L)
+Added Component: Designator=C18(C 0603_L)
+Added Component: Designator=C19(C 0603_L)
+Added Component: Designator=C20(C 0603_L)
+Added Component: Designator=C21(C 0603_L)
+Added Component: Designator=C22(C 0603_L)
+Added Component: Designator=C23(C 0603_L)
+Added Component: Designator=C24(C 0603_L)
+Added Component: Designator=C25(C 0603_L)
+Added Component: Designator=J1(USB-hub)
+Added Component: Designator=P1(SOT-6)
+Added Component: Designator=P2(SMD0805B100TF)
+Added Component: Designator=P3(SMD0805B100TF)
+Added Component: Designator=P4(SMD0805B100TF)
+Added Component: Designator=P5(SMD0805B100TF)
+Added Component: Designator=P6(SMD0805B100TF)
+Added Component: Designator=P7(SOT-6)
+Added Component: Designator=R1(R 0603_L)
+Added Component: Designator=R2(R 0603_L)
+Added Component: Designator=R3(R 0603_L)
+Added Component: Designator=R4(R 0603_L)
+Added Component: Designator=R5(R 0603_L)
+Added Component: Designator=U1(VRB0505S_5WR3)
+Added Component: Designator=U2(AMS1117-3.3)
+Added Component: Designator=U3(AMS1117-3.3)
+Added Component: Designator=U4(C20617584)
+Added Component: Designator=U5(CH318T)
+Added Component: Designator=U6(C20617584)
+Added Component: Designator=U7(HUBSL2.1A)
+Added Component: Designator=U8(C20617584)
+Added Component: Designator=U9(CH318T)
+Added Component: Designator=U10(usb)
+Added Component: Designator=U11(usb)
+Added Component: Designator=U12(usb)
+Added Component: Designator=U13(usb)
+Added Pin To Net: NetName=+5V_ISO Pin=C6-2
+Added Pin To Net: NetName=+5V_ISO Pin=C7-2
+Added Pin To Net: NetName=+5V_ISO Pin=P3-1
+Added Pin To Net: NetName=+5V_ISO Pin=P4-1
+Added Pin To Net: NetName=+5V_ISO Pin=P5-1
+Added Pin To Net: NetName=+5V_ISO Pin=P6-1
+Added Pin To Net: NetName=+5V_ISO Pin=U1-6
+Added Pin To Net: NetName=+5V_ISO Pin=U2-3
+Added Pin To Net: NetName=+5V_ISO Pin=U7-11
+Added Net: Name=+5V_ISO
+Added Pin To Net: NetName=+5V_PRI Pin=C1-1
+Added Pin To Net: NetName=+5V_PRI Pin=C2-1
+Added Pin To Net: NetName=+5V_PRI Pin=C8-1
+Added Pin To Net: NetName=+5V_PRI Pin=C9-1
+Added Pin To Net: NetName=+5V_PRI Pin=P2-2
+Added Pin To Net: NetName=+5V_PRI Pin=U1-2
+Added Pin To Net: NetName=+5V_PRI Pin=U3-3
+Added Net: Name=+5V_PRI
+Added Pin To Net: NetName=1.DMX Pin=C13-2
+Added Pin To Net: NetName=1.DMX Pin=U5-1
+Added Net: Name=1.DMX
+Added Pin To Net: NetName=1.DPX Pin=C15-2
+Added Pin To Net: NetName=1.DPX Pin=U5-2
+Added Net: Name=1.DPX
+Added Pin To Net: NetName=1.XI Pin=C16-1
+Added Pin To Net: NetName=1.XI Pin=U5-4
+Added Pin To Net: NetName=1.XI Pin=U6-3
+Added Net: Name=1.XI
+Added Pin To Net: NetName=1.XO Pin=C17-1
+Added Pin To Net: NetName=1.XO Pin=U5-3
+Added Pin To Net: NetName=1.XO Pin=U6-1
+Added Net: Name=1.XO
+Added Pin To Net: NetName=2.DMX Pin=C13-1
+Added Pin To Net: NetName=2.DMX Pin=U9-1
+Added Net: Name=2.DMX
+Added Pin To Net: NetName=2.DPX Pin=C15-1
+Added Pin To Net: NetName=2.DPX Pin=U9-2
+Added Net: Name=2.DPX
+Added Pin To Net: NetName=2.XI Pin=C22-1
+Added Pin To Net: NetName=2.XI Pin=U8-3
+Added Pin To Net: NetName=2.XI Pin=U9-4
+Added Net: Name=2.XI
+Added Pin To Net: NetName=2.XO Pin=C23-1
+Added Pin To Net: NetName=2.XO Pin=U8-1
+Added Pin To Net: NetName=2.XO Pin=U9-3
+Added Net: Name=2.XO
+Added Pin To Net: NetName=GND_ISO Pin=C4-2
+Added Pin To Net: NetName=GND_ISO Pin=C5-2
+Added Pin To Net: NetName=GND_ISO Pin=C6-1
+Added Pin To Net: NetName=GND_ISO Pin=C7-1
+Added Pin To Net: NetName=GND_ISO Pin=C12-1
+Added Pin To Net: NetName=GND_ISO Pin=C14-2
+Added Pin To Net: NetName=GND_ISO Pin=C19-1
+Added Pin To Net: NetName=GND_ISO Pin=C21-1
+Added Pin To Net: NetName=GND_ISO Pin=C22-2
+Added Pin To Net: NetName=GND_ISO Pin=C23-2
+Added Pin To Net: NetName=GND_ISO Pin=C24-1
+Added Pin To Net: NetName=GND_ISO Pin=C25-2
+Added Pin To Net: NetName=GND_ISO Pin=P7-2
+Added Pin To Net: NetName=GND_ISO Pin=P7-5
+Added Pin To Net: NetName=GND_ISO Pin=R5-2
+Added Pin To Net: NetName=GND_ISO Pin=U1-7
+Added Pin To Net: NetName=GND_ISO Pin=U2-1
+Added Pin To Net: NetName=GND_ISO Pin=U4-2
+Added Pin To Net: NetName=GND_ISO Pin=U4-4
+Added Pin To Net: NetName=GND_ISO Pin=U7-12
+Added Pin To Net: NetName=GND_ISO Pin=U8-2
+Added Pin To Net: NetName=GND_ISO Pin=U8-4
+Added Pin To Net: NetName=GND_ISO Pin=U9-15
+Added Pin To Net: NetName=GND_ISO Pin=U10-4
+Added Pin To Net: NetName=GND_ISO Pin=U11-4
+Added Pin To Net: NetName=GND_ISO Pin=U12-4
+Added Pin To Net: NetName=GND_ISO Pin=U13-4
+Added Net: Name=GND_ISO
+Added Pin To Net: NetName=GND_PRI Pin=C1-2
+Added Pin To Net: NetName=GND_PRI Pin=C2-2
+Added Pin To Net: NetName=GND_PRI Pin=C3-1
+Added Pin To Net: NetName=GND_PRI Pin=C8-2
+Added Pin To Net: NetName=GND_PRI Pin=C9-2
+Added Pin To Net: NetName=GND_PRI Pin=C10-2
+Added Pin To Net: NetName=GND_PRI Pin=C11-2
+Added Pin To Net: NetName=GND_PRI Pin=C16-2
+Added Pin To Net: NetName=GND_PRI Pin=C17-2
+Added Pin To Net: NetName=GND_PRI Pin=C18-1
+Added Pin To Net: NetName=GND_PRI Pin=C20-2
+Added Pin To Net: NetName=GND_PRI Pin=J1-A1B12
+Added Pin To Net: NetName=GND_PRI Pin=J1-B1A12
+Added Pin To Net: NetName=GND_PRI Pin=P1-2
+Added Pin To Net: NetName=GND_PRI Pin=P1-5
+Added Pin To Net: NetName=GND_PRI Pin=R1-2
+Added Pin To Net: NetName=GND_PRI Pin=R2-1
+Added Pin To Net: NetName=GND_PRI Pin=R3-2
+Added Pin To Net: NetName=GND_PRI Pin=U1-1
+Added Pin To Net: NetName=GND_PRI Pin=U3-1
+Added Pin To Net: NetName=GND_PRI Pin=U5-15
+Added Pin To Net: NetName=GND_PRI Pin=U6-2
+Added Pin To Net: NetName=GND_PRI Pin=U6-4
+Added Net: Name=GND_PRI
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=U7-14
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetC20_1 Pin=U5-14
+Added Net: Name=NetC20_1
+Added Pin To Net: NetName=NetJ1_A5 Pin=J1-A5
+Added Pin To Net: NetName=NetJ1_A5 Pin=R3-1
+Added Net: Name=NetJ1_A5
+Added Pin To Net: NetName=NetJ1_B5 Pin=J1-B5
+Added Pin To Net: NetName=NetJ1_B5 Pin=R1-1
+Added Net: Name=NetJ1_B5
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=U11-1
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_2 Pin=U10-1
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP5_2 Pin=P5-2
+Added Pin To Net: NetName=NetP5_2 Pin=U12-1
+Added Net: Name=NetP5_2
+Added Pin To Net: NetName=NetP6_2 Pin=P6-2
+Added Pin To Net: NetName=NetP6_2 Pin=U13-1
+Added Net: Name=NetP6_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=U5-13
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U9-13
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=USB1_DM Pin=U7-7
+Added Pin To Net: NetName=USB1_DM Pin=U10-2
+Added Net: Name=USB1_DM
+Added Pin To Net: NetName=USB1_DP Pin=U7-8
+Added Pin To Net: NetName=USB1_DP Pin=U10-3
+Added Net: Name=USB1_DP
+Added Pin To Net: NetName=USB2_DM Pin=U7-5
+Added Pin To Net: NetName=USB2_DM Pin=U11-2
+Added Net: Name=USB2_DM
+Added Pin To Net: NetName=USB2_DP Pin=U7-6
+Added Pin To Net: NetName=USB2_DP Pin=U11-3
+Added Net: Name=USB2_DP
+Added Pin To Net: NetName=USB3_DM Pin=U7-3
+Added Pin To Net: NetName=USB3_DM Pin=U12-2
+Added Net: Name=USB3_DM
+Added Pin To Net: NetName=USB3_DP Pin=U7-4
+Added Pin To Net: NetName=USB3_DP Pin=U12-3
+Added Net: Name=USB3_DP
+Added Pin To Net: NetName=USB4_DM Pin=U7-1
+Added Pin To Net: NetName=USB4_DM Pin=U13-2
+Added Net: Name=USB4_DM
+Added Pin To Net: NetName=USB4_DP Pin=U7-2
+Added Pin To Net: NetName=USB4_DP Pin=U13-3
+Added Net: Name=USB4_DP
+Added Pin To Net: NetName=USB_DM_ISO Pin=P7-3
+Added Pin To Net: NetName=USB_DM_ISO Pin=P7-4
+Added Pin To Net: NetName=USB_DM_ISO Pin=U7-9
+Added Pin To Net: NetName=USB_DM_ISO Pin=U9-6
+Added Net: Name=USB_DM_ISO
+Added Pin To Net: NetName=USB_DM_PRI Pin=J1-A7
+Added Pin To Net: NetName=USB_DM_PRI Pin=J1-B7
+Added Pin To Net: NetName=USB_DM_PRI Pin=P1-3
+Added Pin To Net: NetName=USB_DM_PRI Pin=P1-4
+Added Pin To Net: NetName=USB_DM_PRI Pin=U5-6
+Added Net: Name=USB_DM_PRI
+Added Pin To Net: NetName=USB_DP_ISO Pin=P7-1
+Added Pin To Net: NetName=USB_DP_ISO Pin=P7-6
+Added Pin To Net: NetName=USB_DP_ISO Pin=U7-10
+Added Pin To Net: NetName=USB_DP_ISO Pin=U9-7
+Added Net: Name=USB_DP_ISO
+Added Pin To Net: NetName=USB_DP_PRI Pin=J1-A6
+Added Pin To Net: NetName=USB_DP_PRI Pin=J1-B6
+Added Pin To Net: NetName=USB_DP_PRI Pin=P1-1
+Added Pin To Net: NetName=USB_DP_PRI Pin=P1-6
+Added Pin To Net: NetName=USB_DP_PRI Pin=U5-7
+Added Net: Name=USB_DP_PRI
+Added Pin To Net: NetName=USB_SHIELD_PRI Pin=C3-2
+Added Pin To Net: NetName=USB_SHIELD_PRI Pin=J1-13
+Added Pin To Net: NetName=USB_SHIELD_PRI Pin=J1-14
+Added Pin To Net: NetName=USB_SHIELD_PRI Pin=J1-15
+Added Pin To Net: NetName=USB_SHIELD_PRI Pin=J1-16
+Added Pin To Net: NetName=USB_SHIELD_PRI Pin=R2-2
+Added Net: Name=USB_SHIELD_PRI
+Added Pin To Net: NetName=VBUS_PRI Pin=J1-A4B9
+Added Pin To Net: NetName=VBUS_PRI Pin=J1-B4A9
+Added Pin To Net: NetName=VBUS_PRI Pin=P2-1
+Added Net: Name=VBUS_PRI
+Added Pin To Net: NetName=VDD33_ISO Pin=C4-1
+Added Pin To Net: NetName=VDD33_ISO Pin=C5-1
+Added Pin To Net: NetName=VDD33_ISO Pin=C21-2
+Added Pin To Net: NetName=VDD33_ISO Pin=C24-2
+Added Pin To Net: NetName=VDD33_ISO Pin=C25-1
+Added Pin To Net: NetName=VDD33_ISO Pin=U2-2
+Added Pin To Net: NetName=VDD33_ISO Pin=U2-4
+Added Pin To Net: NetName=VDD33_ISO Pin=U7-13
+Added Pin To Net: NetName=VDD33_ISO Pin=U9-5
+Added Pin To Net: NetName=VDD33_ISO Pin=U9-14
+Added Pin To Net: NetName=VDD33_ISO Pin=U9-16
+Added Net: Name=VDD33_ISO
+Added Pin To Net: NetName=VDD33_PRI Pin=C10-1
+Added Pin To Net: NetName=VDD33_PRI Pin=C11-1
+Added Pin To Net: NetName=VDD33_PRI Pin=C18-2
+Added Pin To Net: NetName=VDD33_PRI Pin=R4-2
+Added Pin To Net: NetName=VDD33_PRI Pin=U3-2
+Added Pin To Net: NetName=VDD33_PRI Pin=U3-4
+Added Pin To Net: NetName=VDD33_PRI Pin=U5-5
+Added Pin To Net: NetName=VDD33_PRI Pin=U5-16
+Added Net: Name=VDD33_PRI
+Added Pin To Net: NetName=XIN Pin=C14-1
+Added Pin To Net: NetName=XIN Pin=U4-1
+Added Pin To Net: NetName=XIN Pin=U7-16
+Added Net: Name=XIN
+Added Pin To Net: NetName=XOUT Pin=C12-2
+Added Pin To Net: NetName=XOUT Pin=U4-3
+Added Pin To Net: NetName=XOUT Pin=U7-15
+Added Net: Name=XOUT
+Added Class: Name=USB-hub
+Added Room: Name=USB-hub
